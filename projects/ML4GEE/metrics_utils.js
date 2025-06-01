@@ -1,5 +1,32 @@
 // metrics_utils.js
 
+// =================================================
+// UTILIDADES DE MÉTRICAS PARA VALIDACIÓN DE MODELOS
+// =================================================
+//
+// Cómo importar y usar estas funciones desde tu archivo principal (main.js):
+//
+//    1. Guarda este archivo como 'metrics_utils.js'.
+//    2. En tu archivo 'main.js', importa así:
+//
+//         var metrics = require('users/TU_USUARIO/NOMBRE_DEL_SCRIPT:metrics_utils.js');
+//
+//    3. Usa las funciones:
+//
+//         var rmse = metrics.calculateRMSE(featureCollection, 'real', 'pred');
+//         var r2   = metrics.computeRSquared(featureCollection, 'real', 'pred');
+//
+// Donde:
+//   - featureCollection: es un ee.FeatureCollection con propiedades numéricas
+//   - 'real': nombre de la propiedad con los valores reales
+//   - 'pred': nombre de la propiedad con las predicciones del modelo
+//
+// Ambas funciones devuelven ee.Number, así que puedes usar:
+//   print(rmse);
+//   print(r2);
+//
+
+
 // =======================================================
 // Función para calcular el Root Mean Squared Error (RMSE)
 // =======================================================

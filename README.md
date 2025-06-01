@@ -2,9 +2,10 @@
 Proyectos de código abierto para el uso de Google Earth Engine con modelos de Machine Learning en aplicaciones geoespaciales y medioambientales.
 
 ## Uso
-Puedes entrar a la carpeta específica del proyecto que te interesa y descargar o copiar el código.  
-Si lo prefieres puedes clonar este repositorio en equipo local.  
-Sientete libre de editar y personalizar este código a tus necesidades, siempre que tus modificaciones también las pongas como código abierto, para uso libre de la comunidad. 
+- Puedes entrar a la carpeta específica del proyecto que te interesa y descargar o copiar el código.  
+- Si lo prefieres puedes clonar este repositorio en tu equipo local.  
+- Sientete libre de editar y personalizar este código a tus necesidades,  
+siempre que tus modificaciones también las mantengas como código abierto, para uso libre de la comunidad. 
 
 ## Contribuciones
 

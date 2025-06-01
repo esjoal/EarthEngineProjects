@@ -3,7 +3,7 @@ Proyectos de código abierto para el uso de Google Earth Engine con modelos de M
 
 Tienes a disposición tanto el código como los datasets para que lo puedas ejecutar y estudiar.  
 También tienes un tutorial o video-tutorial con las explicaciones.  
-El código estará escrito en JavaScript (JS) o Python (PY) según sea el caso.
+El código estará escrito en JavaScript (.js) o Python (.py | .ipynb), según sea el caso.
 
 ## Uso
 - Puedes entrar a la carpeta específica del proyecto que te interesa y descargar o copiar el código.  

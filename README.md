@@ -1,4 +1,4 @@
-# EarthEngineProjects
+# Earth Engine Projects with Machine Learning
 Proyectos de código abierto para el uso de Google Earth Engine con modelos de Machine Learning en aplicaciones geoespaciales y medioambientales.  
 
 Tienes a disposición tanto el código como los datasets para que lo puedas ejecutar y estudiar.  

@@ -2,7 +2,6 @@
 Proyectos de código abierto para el uso de Google Earth Engine con modelos de Machine Learning en aplicaciones geoespaciales y medioambientales.  
 
 Tienes a disposición tanto el código como los datasets para que lo puedas ejecutar y estudiar.  
-También tienes un tutorial o video-tutorial con las explicaciones.  
 El código estará escrito en JavaScript (.js) o Python (.py | .ipynb), según sea el caso.
 
 ## Uso
@@ -10,6 +9,10 @@ El código estará escrito en JavaScript (.js) o Python (.py | .ipynb), según s
 - Si lo prefieres puedes clonar este repositorio en tu equipo local.  
 - Sientete libre de editar y personalizar este código a tus necesidades,  
 siempre que tus modificaciones también las mantengas como código abierto, para uso libre de la comunidad. 
+
+## Proyecto 1 - ML4GEE- Video-tutorial
+[![Watch the video](https://img.youtube.com/vi/PrO8NqEV_TU&t/0.jpg)](https://www.youtube.com/watch?v=PrO8NqEV_TU&t=0s)
+
 
 ## Contribuciones
 

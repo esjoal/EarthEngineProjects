@@ -10,9 +10,10 @@ El código estará escrito en JavaScript (.js) o Python (.py | .ipynb), según s
 - Sientete libre de editar y personalizar este código a tus necesidades,  
 siempre que tus modificaciones también las mantengas como código abierto, para uso libre de la comunidad. 
 
-## Proyecto 1 - ML4GEE- Video-tutorial
-[![Watch the video](https://img.youtube.com/vi/PrO8NqEV_TU&t/0.jpg)](https://www.youtube.com/watch?v=PrO8NqEV_TU&t=0s)
+## Proyecto 1 - ML4GEE- Video-tutorial  
+Click encima de la imagen para ver el video.  
 
+[![Watch the video](https://img.youtube.com/vi/PrO8NqEV_TU/0.jpg)](https://www.youtube.com/watch?v=PrO8NqEV_TU&t=0s)
 
 ## Contribuciones
 

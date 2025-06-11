@@ -70,7 +70,7 @@ En la carpeta `data/` del repositorio encontrarás:
 
 ## 📬 ¿Dudas o sugerencias?
 
-Déjalas como comentario en el [video del tutorial](#) o contáctame por [LinkedIn](#).  
+Déjalas como comentario en el [video del tutorial](https://www.youtube.com/watch?v=PrO8NqEV_TU&t=1528s) o contáctame por [LinkedIn](https://www.linkedin.com/in/estevez-jose/).  
 Si completas el ejercicio, ¡me encantaría ver tu resultado!
 
 ---

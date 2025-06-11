@@ -1,8 +1,8 @@
-# 📘 Ejercicio Propuesto: Aplicación de Modelo de ML a Nuevos Datos Satelitales
+# 📘 Ejercicio Propuesto: LAI Evolution
 
-## 🧠 Objetivo del ejercicio
+##  ⭐ Objetivo del ejercicio
 
-Aplicar el modelo de regresión entrenado en el tutorial para **predecir una variable objetivo** (como el índice de área foliar) sobre un nuevo conjunto de datos, utilizando **Google Earth Engine (GEE)**.
+Aplicar el modelo de regresión entrenado en el tutorial para **predecir una variable objetivo** (como el índice de área foliar) sobre un nuevo dataset, utilizando **Google Earth Engine (GEE)**.
 
 Este ejercicio permite consolidar el flujo completo de trabajo: desde la extracción de datos satelitales hasta la predicción y evaluación del modelo de Machine Learning en un contexto real.
 
@@ -10,11 +10,9 @@ Este ejercicio permite consolidar el flujo completo de trabajo: desde la extracc
 
 ## 📂 Archivos suministrados
 
-En la carpeta `data/` encontrarás:
+En la carpeta `data/` del repositorio encontrarás:
 
-- `test_coordinates.csv`: archivo con coordenadas (`lat`, `lon`), fechas y valores reales de la variable objetivo.
-- `README_DATOS.txt`: explicación de la estructura de columnas.
-
+- `LAI_evolution_exercise.csv`: archivo con coordenadas (`lat`, `lon`), fechas y valores reales de la variable objetivo.
 ---
 
 ## 🔍 Pasos del ejercicio
@@ -38,24 +36,21 @@ En la carpeta `data/` encontrarás:
    - Genera un gráfico de dispersión (scatter plot) real vs. predicho.
    - Calcula las métricas R² y RMSE.
 
-6. **(Opcional)**: Visualiza los puntos sobre el mapa, coloreados según el error de predicción.
-
 ---
 
 ## ✅ Resultado esperado
 
 - Un gráfico de dispersión con las predicciones vs los valores reales.
 - Cálculo de R² y RMSE para evaluar el modelo.
-- Archivo `ejercicio.js` con el código bien estructurado y comentado.
+- Archivo `main_LAI_evolution.js` con el código bien estructurado y comentado.
 
 ---
 
-## 🧪 ¿Qué vas a practicar?
+## ✍️ ¿Qué vas a practicar?
 
 - Lectura y preprocesado de CSV en GEE
 - Uso de `ImageCollection` y `FeatureCollection`
 - Aplicación de modelos a nuevos datos
-- Visualización de predicciones georreferenciadas
 - Evaluación de modelos de regresión en GEE
 
 ---
@@ -70,11 +65,6 @@ En la carpeta `data/` encontrarás:
 
 - Cuenta activa en [Google Earth Engine](https://earthengine.google.com/)
 - Haber completado el tutorial previo
-- Acceso a los siguientes archivos:
-  - `main.js`
-  - `metrics.js`
-  - `legend.js`
-  - Modelo entrenado
 
 ---
 
@@ -88,7 +78,8 @@ Si completas el ejercicio, ¡me encantaría ver tu resultado!
 ### 👨‍💻 Autor
 
 **José Estévez**  
-Especialista en Machine Learning y análisis geoespacial  
-📫 [Tu LinkedIn o sitio web aquí]
+Especialista en Teledetección y Ciencia de Datos   
+📫 [[LinkedIn](https://www.linkedin.com/in/estevez-jose/)]  
+🎥[[YouTube](https://youtube.com/@fit2predictlab?si=0jnFQBtVOBCmNK9W)]
 
 ---

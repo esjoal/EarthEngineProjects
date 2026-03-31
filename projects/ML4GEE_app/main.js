@@ -1,6 +1,16 @@
-/**
- * GEE APP: LAI Monitor using ML
- */
+/*******************************************************************************
+ * @file    main.js
+ * @brief   Aplicación interactiva para correr en Google Earth Engine APPs
+ *          para generar mapas de estimación del Índice de Área Foliar (LAI)
+ *          usando algoritmos de Machine Learning
+ *          e imágenes del satélite Sentinel-2
+ * @date    2026-03-31
+ * @author  Jose Estevez
+ * @license GNU General Public License v3.0
+ * @email   estevez036@gmail.com
+ * @github  https://github.com/esjoal
+ * @In      https://www.linkedin.com/in/estevez-jose
+ ******************************************************************************/
 
 // Importa una librería externa para generar la leyenda del colorbar.
 var legend_utils = require('users/jose_estevez/GEE4ML:legend_utils.js');
